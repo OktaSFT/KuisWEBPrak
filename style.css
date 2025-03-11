@@ -1,0 +1,48 @@
+body{
+    width: 1080px;
+    margin: 0px auto;
+    background-image: url(baymax-disney-series-tv-series-2022-series-animation-1920x1080-8093.jpg);
+}
+
+#header {
+    color: white;
+}
+
+#header h3{
+    float: left;
+}
+
+#nav {
+    text-align: right;
+    padding: 10px;
+}
+
+#nav li{
+    display: inline;
+    padding: 5px;
+}
+
+#nav a{
+    text-decoration: none;
+    color: white;
+}
+
+.Jadwal table{
+    backdrop-filter: blur(15px);
+    text-align: center;
+    color: rgb(27, 0, 53);
+}
+
+.tombol {
+    padding: 4px 12px;
+    border-radius: 15px;
+    border: none;
+    background-color: blueviolet;
+}
+
+.Jadwal h2{
+    color: rgb(252, 248, 255);
+}
+.teks {
+    color: rgb(27, 0, 53);
+}
